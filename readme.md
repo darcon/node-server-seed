@@ -17,7 +17,11 @@ powered by Node.js/gulp
 
     gulp
 
-#### <i class="icon-pencil"></i>常用Module
+<<<<<<< HEAD
+#### 常用Module
+=======
+#### 常用Module
+>>>>>>> bf0fe676011192e71c031b6be15bb8d0ba129176
 
  1. [gulp](https://github.com/gulpjs/gulp) 构建工具
  2. [tedious](https://github.com/pekim/tedious) mssql链接库
@@ -29,9 +33,15 @@ powered by Node.js/gulp
  8. [util](https://nodejs.org/api/util.html)
 
 
-#### <i class="icon-pencil"></i>常用Util
+<<<<<<< HEAD
+#### 常用Util
 
-##### <i class="icon-pencil"></i>logUtil使用
+##### logUtil使用
+=======
+#### 常用Util
+
+##### logUtil使用
+>>>>>>> bf0fe676011192e71c031b6be15bb8d0ba129176
 日志输出，等级 info、error/warn
 
     var log = require('../utils/logUtil');
@@ -40,7 +50,11 @@ powered by Node.js/gulp
     log.warn('warn');
     log.error('err');
 
+<<<<<<< HEAD
+##### mssqlUtil使用
+=======
 ##### <i class="icon-pencil"></i>mssqlUtil使用
+>>>>>>> bf0fe676011192e71c031b6be15bb8d0ba129176
 Sqlserver 连接工具类,基于when.js(Promises/A)，基于<kbd>require('tedious').TYPES</kbd>进行参数类型校验
 
     var when = require('when');
