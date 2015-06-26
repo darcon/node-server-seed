@@ -18,6 +18,16 @@ powered by Node.js/gulp
 
     gulp
 
+#### 常用Module
 
+ 1. [gulp](https://github.com/gulpjs/gulp) 构建工具
+ 2. [tedious](https://github.com/pekim/tedious) mssql链接库
+ 3. [tedious-connection-pool](https://github.com/pekim/tedious-connection-pool) mssql链接池
+ 4. [node-mysql](https://github.com/felixge/node-mysql) mysql链接库
+ 5. [log4js](https://github.com/nomiddlename/log4js-node) 日志库
+ 6. [async](https://github.com/caolan/async)
+ 7. [when](https://github.com/caolan/async)
+ 8. [util](https://nodejs.org/api/util.html)
+ 9. 
 #### License
     MIT
