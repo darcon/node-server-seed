@@ -17,7 +17,7 @@ powered by Node.js/gulp
 
     gulp
 
-#### 常用Module
+#### <i class="icon-pencil"></i>常用Module
 
  1. [gulp](https://github.com/gulpjs/gulp) 构建工具
  2. [tedious](https://github.com/pekim/tedious) mssql链接库
@@ -29,9 +29,9 @@ powered by Node.js/gulp
  8. [util](https://nodejs.org/api/util.html)
 
 
-#### 常用Util
+#### <i class="icon-pencil"></i>常用Util
 
-##### logUtil使用
+##### <i class="icon-pencil"></i>logUtil使用
 日志输出，等级 info、error/warn
 
     var log = require('../utils/logUtil');
@@ -40,7 +40,7 @@ powered by Node.js/gulp
     log.warn('warn');
     log.error('err');
 
-##### mssqlUtil使用
+##### <i class="icon-pencil"></i>mssqlUtil使用
 Sqlserver 连接工具类,基于when.js(Promises/A)，基于<kbd>require('tedious').TYPES</kbd>进行参数类型校验
 
     var when = require('when');
